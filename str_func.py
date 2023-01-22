@@ -8,3 +8,5 @@ def capitalize_function():
     первыми буквами в верхнем регистре"""
     word = input()
     return word.lower().capitalize()
+
+# исправляем какие-то баги
