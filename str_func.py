@@ -6,5 +6,5 @@ def input_function():
 def capitalize_function():
     """Принимает от пользователя строку, возвращает ее в нижнем регистре с
     первыми буквами в верхнем регистре"""
-    word = input()
+    word = "my_word"
     return word.lower().capitalize()
